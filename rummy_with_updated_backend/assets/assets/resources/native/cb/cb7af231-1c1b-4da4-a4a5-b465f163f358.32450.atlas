@@ -1,0 +1,34 @@
+
+click_effect.png
+size: 410,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip_03
+  rotate: true
+  xy: 367, 88
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+glow_01
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring_1
+  rotate: false
+  xy: 262, 23
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

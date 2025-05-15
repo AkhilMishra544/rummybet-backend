@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="""  # removed backend URL" xmlns:app="""  # removed backend URL">
+    <item android:state_enabled="false" android:color="?colorControlActivated" app:alpha="?android:disabledAlpha" />
+    <item android:color="?colorControlActivated" />
+</selector>

@@ -1,0 +1,90 @@
+
+dating_box_2.png
+size: 1006,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/bx_8
+  rotate: false
+  xy: 2, 2
+  size: 266, 208
+  orig: 266, 270
+  offset: 0, 0
+  index: -1
+dating/bx_9
+  rotate: false
+  xy: 490, 303
+  size: 256, 270
+  orig: 266, 270
+  offset: 6, 0
+  index: -1
+dating/dating_bx/bx_3
+  rotate: false
+  xy: 803, 786
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+dating/dating_bx/bx_4
+  rotate: false
+  xy: 400, 155
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+dating/dating_bx/bx_5
+  rotate: false
+  xy: 803, 746
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dating/dating_bx/bx_6
+  rotate: false
+  xy: 270, 24
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+dating/dating_bx/bx_8
+  rotate: false
+  xy: 2, 212
+  size: 486, 629
+  orig: 486, 629
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 270, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ray_07
+  rotate: false
+  xy: 490, 45
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_14
+  rotate: false
+  xy: 748, 317
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+spark_06
+  rotate: false
+  xy: 748, 59
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: false
+  xy: 490, 575
+  size: 311, 266
+  orig: 320, 320
+  offset: 0, 33
+  index: -1

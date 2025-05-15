@@ -1,0 +1,11 @@
+{
+    "api_base": "https://rummybet-backend.onrender.com/api",
+    "endpoints": {
+        "login": "https://rummybet-backend.onrender.com/api/login.php",
+        "balance": "https://rummybet-backend.onrender.com/api/balance.php",
+        "update": "https://rummybet-backend.onrender.com/api/update.php",
+        "history": "https://rummybet-backend.onrender.com/api/history.php"
+    },
+    "version": "1.0",
+    "powered_by": "You"
+}

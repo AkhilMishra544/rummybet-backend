@@ -1,0 +1,97 @@
+
+animation_kaishi_H.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 195
+  size: 627, 191
+  orig: 627, 191
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 627, 191
+  orig: 627, 191
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1284, 239
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 664, 118
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 631, 111
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1945, 365
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 631, 89
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+_0000_06
+  rotate: false
+  xy: 1302, 263
+  size: 641, 122
+  orig: 641, 122
+  offset: 0, 0
+  index: -1
+_0001_05
+  rotate: false
+  xy: 631, 139
+  size: 651, 122
+  orig: 651, 122
+  offset: 0, 0
+  index: -1
+_0002_04
+  rotate: false
+  xy: 1384, 387
+  size: 659, 122
+  orig: 659, 122
+  offset: 0, 0
+  index: -1
+_0003_03
+  rotate: false
+  xy: 631, 263
+  size: 669, 122
+  orig: 669, 122
+  offset: 0, 0
+  index: -1
+_0004_02
+  rotate: false
+  xy: 703, 387
+  size: 679, 122
+  orig: 679, 122
+  offset: 0, 0
+  index: -1
+_0005_01
+  rotate: false
+  xy: 2, 388
+  size: 699, 121
+  orig: 699, 121
+  offset: 0, 0
+  index: -1
