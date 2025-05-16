@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="""  # removed backend URL" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" android:installLocation="auto" package="com.Ludoguru.game" platformBuildVersionCode="33" platformBuildVersionName="13">
+<manifest xmlns:android="""  # removed backend URL" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" android:installLocation="auto" package="com.Ludobet.game" platformBuildVersionCode="33" platformBuildVersionName="13">
     <uses-feature android:glEsVersion="0x00020000"/>
     <uses-feature android:name="android.hardware.camera"/>
     <uses-permission android:name="android.permission.INTERNET"/>
